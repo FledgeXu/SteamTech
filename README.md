@@ -1,1 +1,1 @@
-Add steam drives machines to Minecraft!
+Add some machines driven by steam to Minecraft!

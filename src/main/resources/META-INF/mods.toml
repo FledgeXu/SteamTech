@@ -29,7 +29,7 @@ displayName="Steam Tech" #mandatory
 authors="FledgXu" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Add Some steam drives machines to Minecraft!
+Add some machines driven by steam to Minecraft!
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.steamtech]] #optional
